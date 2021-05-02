@@ -35,9 +35,8 @@ If you are facing a configuration issue or something is not working as you expec
 
 
 ### About Programmer
-Ebrahim Shafiei (EbraSha) from Iran (Ready to cooperate with international projects)
+Ebrahim Shafiei (EbraSha) (Ready to cooperate with international projects)
   - Email : Prof.Shafiei@Gmail.com
-  - WebSite https://hackers.zone/
 
 
 ## License
