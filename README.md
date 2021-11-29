@@ -1,5 +1,8 @@
 # Abdal SSH BruteForce
 
+**[![Download  Abdal SSH BruteForce](https://img.shields.io/sourceforge/dt/abdal-ssh-bruteforce.svg)](https://sourceforge.net/projects/abdal-ssh-bruteforce/files/latest/download)**
+
+[![Download  Abdal SSH BruteForce](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/abdal-ssh-bruteforce/files/latest/download)
 
 ## Made For 
 
